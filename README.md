@@ -8,11 +8,11 @@ Para el desarrollo de esta aplicación, se utilizaron las siguientes herramienta
 
 **Java 20:** La versión 20 de Java como lenguaje de programación principal. Java es un lenguaje versátil y robusto que nos permite construir aplicaciones escalables y de alto rendimiento.
 
-**IntelliJ IDEA:** Hemos utilizado IntelliJ IDEA como nuestro entorno de desarrollo integrado (IDE) para escribir, depurar y compilar el código de la aplicación. IntelliJ IDEA proporciona una amplia gama de características y herramientas que facilitan el desarrollo en Java.
+**IntelliJ IDEA:** He usado IntelliJ IDEA como nuestro entorno de desarrollo integrado (IDE) para escribir, depurar y compilar el código de la aplicación. IntelliJ IDEA proporciona una amplia gama de características y herramientas que facilitan el desarrollo en Java.
 
-**ExchangeRate-API:** Para obtener los tipos de cambio de las diferentes monedas, hemos utilizado la API de ExchangeRate-API. Esta API nos brinda acceso a tasas de cambio actualizadas y precisas, lo que nos permite realizar conversiones precisas de moneda en tiempo real.
+**ExchangeRate-API:** Para obtener los tipos de cambio de las diferentes monedas, he usado la API de ExchangeRate-API. Esta API nos brinda acceso a tasas de cambio actualizadas y precisas, lo que nos permite realizar conversiones precisas de moneda en tiempo real.
 
-**Biblioteca org.json:** Para trabajar con el formato JSON que proporciona la API de ExchangeRate-API, hemos utilizado la biblioteca org.json. Esta biblioteca nos permite analizar y generar datos en formato JSON de manera sencilla y eficiente.
+**Biblioteca org.json:** Para trabajar con el formato JSON que proporciona la API de ExchangeRate-API, fue utilizada la biblioteca org.json. Esta biblioteca permite analizar y generar datos en formato JSON de manera sencilla y eficiente.
 
 ## Funcionalidades Principales
 La aplicación de conversión de monedas ofrece las siguientes funcionalidades principales:
